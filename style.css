@@ -5,11 +5,10 @@ body {
 
 #title {
     text-align: center;
-}
-
-#img-caption {
-    margin-bottom: 20px;
-    font-size: 10px;
+    color: rgb(172, 155, 120);
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 5em;
+    text-transform: uppercase;
 }
 
 #image {
@@ -17,3 +16,52 @@ body {
     height: auto;
     display: block;
 }
+
+#img-caption {
+    margin-bottom: 20px;
+    font-size: 10px;
+    margin-left: 10px;
+    color: rgb(172, 155, 120);
+}
+
+main {
+    color: rgb(172, 155, 120);
+}
+
+#tribute-info {
+margin: 20px 20px 0px 20px;
+line-height: 20px;
+}
+
+#tribute-info-2 {
+    margin: 20px 20px 20px 20px;
+    line-height: 20px;
+    }
+
+hr {
+    height: 1px;
+    width: 90%;
+    background-color: rgba(172, 155, 120, 0.5);
+    box-shadow: 0 0 10px 1px black;
+
+    }
+
+h2 {
+    text-transform: uppercase;
+    font-family: 'Nanum Pen Script', cursive;
+    font-size: 2em;
+    text-align: center;
+}
+
+.timeline {
+    margin: 20px 20px 0px 20px;
+    line-height: 200%;
+    
+}
+
+footer {
+    text-align: center;
+    color: rgb(172, 155, 120);
+}
+
+
